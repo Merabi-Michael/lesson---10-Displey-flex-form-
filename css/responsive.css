@@ -1,0 +1,38 @@
+@media (max-width: 720px) {
+  .nav-ul {
+    display: none;
+  }
+  .fa-bars {
+    display: block;
+  }
+}
+@media (max-width: 650px) {
+  .withresposive {
+    max-width: 275px;
+    width: 100%;
+  }
+}
+@media (max-width: 560px) {
+  .footering {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+}
+@media (max-width: 350px) {
+  .withresposive {
+    max-width: 125px;
+    width: 100%;
+  }
+}
+/* also added hover */
+@media (max-width: 450px) {
+  .burger-bar {
+    font-size: 30px;
+    color: purple;
+  }
+  .burger-bar:hover {
+    font-size: 40px;
+    color: darkviolet;
+  }
+}
