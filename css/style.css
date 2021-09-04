@@ -1,0 +1,112 @@
+/* header add */
+.container {
+  max-width: 1177px;
+  width: 100%;
+  margin:0 auto;
+  margin-top: 35px;
+}
+.navigation-wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.nav-ul {
+  display: flex;
+}
+.aboutproject {
+  font-family: ArchyEDT-Thin;
+  font-size: 20px;
+  color: #707070;
+  max-width: 140px;
+  width: 100%;
+}
+.requipment {
+  font-family: ArchyEDT-Thin;
+  font-size: 20px;
+  color: #707070;
+  max-width: 89px;
+  width: 100%;
+}
+.explore {
+  font-family: ArchyEDT-Thin;
+  font-size: 20px;
+  color: #707070;
+  max-width: 82px;
+  width: 100%;
+}
+.enter {
+  font-family: ArchyEDT-Thin;
+  font-size: 20px;
+  color: #707070;
+  max-width: 53px;
+  width: 100%;
+}
+.nav-ul li {
+  margin-right: 50px;
+}
+/* section add */
+.image {
+  max-width: 100%;
+}
+/* form add */
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.input-wrapper {
+  max-width: 732px;
+  width: 100%;
+  height: 50px;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  margin-left: 80px;
+  resize: none;
+}
+.submit {
+  margin-top: 14px;
+  max-width: 80px;
+  width: 100%;
+  height: 25px;
+  background-color: #2E2E2E;
+  color: #fff;
+  margin-left: 80px;
+}
+.same {
+  margin-left: 80px;
+}
+/* footer add */
+.footering {
+  background-color: #2E2E2E;
+  height: 180px;
+}
+.same1 {
+  color: #fff;
+  margin-top: 74px;
+}
+.same01 {
+  color: #fff;
+}
+.same2 {
+  color: #fff;
+  margin-top: 74px;
+}
+.same02 {
+  color: #fff;
+}
+.footering {
+  display: flex;
+  max-width: 1920px;
+  width: 100%;
+  margin-top: 200px;
+  justify-content: space-around;
+}
+.height {
+  margin-top: 50px;
+}
+.fb {
+  margin-top: 74px;
+  margin-right: 34px;
+}
+.ig {
+  margin-top: 74px;
+}
